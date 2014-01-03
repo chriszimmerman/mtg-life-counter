@@ -4,7 +4,7 @@
     <list default="true" id="01d15f71-7952-4a81-af03-328deaf08e23" name="Default" comment="" />
     <ignored path="mtg-life-counter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="01d15f71-7952-4a81-af03-328deaf08e23" time="1388788807167" ignored="false" />
+    <file path="/index.html" changelist="01d15f71-7952-4a81-af03-328deaf08e23" time="1388789412929" ignored="false" />
     <file path="/counter.js" changelist="01d15f71-7952-4a81-af03-328deaf08e23" time="1388788967841" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,19 +66,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="41" selection-start="889" selection-end="889" vertical-scroll-proportion="-12.423077">
+            <state line="23" column="32" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.52133334">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="counter.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/counter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="24" selection-start="352" selection-end="352" vertical-scroll-proportion="0.21907216">
+            <state line="22" column="19" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,8 +94,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/counter.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -402,16 +402,16 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/src/counter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="41" selection-start="889" selection-end="889" vertical-scroll-proportion="-12.423077">
+        <state line="22" column="19" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/counter.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="352" selection-end="352" vertical-scroll-proportion="0.21907216">
+        <state line="23" column="32" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.52133334">
           <folding />
         </state>
       </provider>
