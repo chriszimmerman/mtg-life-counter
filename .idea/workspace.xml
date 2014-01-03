@@ -4,7 +4,7 @@
     <list default="true" id="01d15f71-7952-4a81-af03-328deaf08e23" name="Default" comment="" />
     <ignored path="mtg-life-counter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="01d15f71-7952-4a81-af03-328deaf08e23" time="1388789412929" ignored="false" />
+    <file path="/index.html" changelist="01d15f71-7952-4a81-af03-328deaf08e23" time="1388790498722" ignored="false" />
     <file path="/counter.js" changelist="01d15f71-7952-4a81-af03-328deaf08e23" time="1388788967841" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,10 +66,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="32" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.52133334">
+            <state line="18" column="41" selection-start="891" selection-end="891" vertical-scroll-proportion="-11.769231">
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.mobile-1.3.2.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3365" column="62" selection-start="136350" selection-end="136350" vertical-scroll-proportion="0.6435124">
               <folding />
             </state>
           </provider>
@@ -96,6 +107,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/counter.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/jquery.mobile-1.3.2.css" />
       </list>
     </option>
   </component>
@@ -159,6 +171,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtg-life-counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtg-life-counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -353,7 +379,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -367,7 +395,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -386,7 +416,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="50" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -409,9 +441,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5501" column="71" selection-start="183336" selection-end="183338" vertical-scroll-proportion="0.05691057">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="32" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.52133334">
+        <state line="18" column="41" selection-start="891" selection-end="891" vertical-scroll-proportion="-11.769231">
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3365" column="62" selection-start="136350" selection-end="136350" vertical-scroll-proportion="0.6435124">
           <folding />
         </state>
       </provider>
