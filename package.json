@@ -1,0 +1,9 @@
+{
+  "name": "mtg-life-counter",
+  "version": "1.0.0",
+  "description": "A life counter for the game Magic: The Gathering",
+  "main": "index.js",
+  "repository": "https://github.com/chriszimmerman/mtg-life-counter.git",
+  "author": "Chris Zimmerman <chris@chriszimmerman.net>",
+  "license": "MIT"
+}
